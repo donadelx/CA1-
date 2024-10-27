@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * Main class to handle customer discount calculations.
- * GitHub Repository Link: 
+ * GitHub Repository Link: https://github.com/donadelx/CA1-
  */
 public class CA1 {
 
